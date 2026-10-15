@@ -1,0 +1,32 @@
+{
+  "tenant_id": "v_personal",
+  "brand_name": "V - Fitness & Tech",
+  "pillars": [
+    "Fitness & Training",
+    "AI & Dev Tools",
+    "Build in Public"
+  ],
+  "tone": [
+    "Direct",
+    "Analytical",
+    "No fluff",
+    "Practical"
+  ],
+  "banned_words": [
+    "in today's fast-paced world",
+    "game changer",
+    "revolutionary",
+    "dive deep",
+    "unleash",
+    "secret hack"
+  ],
+  "reel_default_mode": "faceless",
+  "custom_rules": [],
+  "sources": [
+    "https://hnrss.org/frontpage",
+    "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=week",
+    "https://www.strongerbyscience.com/feed/",
+    "https://breakingmuscle.com/feed/",
+    "https://www.reddit.com/r/Fitness/top/.rss?t=week"
+  ]
+}
